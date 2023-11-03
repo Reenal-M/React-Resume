@@ -1,0 +1,73 @@
+p {
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+.xyz {
+
+    text-align: left;
+    position: absolute;
+    top: 180px;
+    left: 2000;
+    right: 300;
+    width: 30;
+    height: 10;
+
+
+}
+
+Resume {
+    background-color: bisque;
+}
+
+.resume-container {
+    /* text-align: center; */
+    background-color: bisque;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+
+
+
+}
+
+.bio {
+    width: 500px;
+    font-size: 14px;
+}
+
+.b {
+    text-align: center;
+}
+
+.s {
+    text-align: center;
+}
+
+.r {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+img {
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.abc {
+    position: relative;
+    left: 400px;
+    bottom: 70;
+
+    height: 10;
+}
+
+h5 {
+    text-decoration: underline;
+}
